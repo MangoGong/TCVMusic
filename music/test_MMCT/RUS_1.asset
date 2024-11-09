@@ -6,62 +6,62 @@
 #And remember to change the .dds of your radio station thumbnail in the gfx folder!
 
 music = {
-    name = "Последняя свеча"
-    file = "Вадим Казаченко,Фристайл - Последняя свеча.ogg"
+    name = "Poslednqq_svecha"
+    file = "Poslednqq_svecha.ogg"
     volume = 0.65
 }
 music = {
-    name = "Осенний дождь"
-    file = "Вадим Казаченко,Фристайл - Осенний дождь.ogg"
+    name = "Osenniy_dozhd"
+    file = "Osenniy_dozhd.ogg"
     volume = 0.65
 }
 music = {
-    name = "Сезон любви"
-    file = "Вадим Казаченко,Фристайл - Сезон любви.ogg"
+    name = "Sezon_lubvi"
+    file = "Sezon_lubvi.ogg"
     volume = 0.65
 }
 music = {
-    name = "Место для шага вперёд"
-    file = "Кино - Место для шага вперёд.ogg"
+    name = "Mesto_dlq_shaga_vperyod"
+    file = "Mesto_dlq_shaga_vperyod.ogg"
     volume = 0.65
 }
 music = {
-    name = "В последнюю осень"
-    file = "ДДТ - В последнюю осень.ogg"
+    name = "V_poslednuu_osen"
+    file = "V_poslednuu_osen.ogg"
     volume = 0.65
 }
 music = {
-    name = "Контрреволюция"
-    file = "ДДТ - Контрреволюция.ogg"
+    name = "Kontrrevoluciq"
+    file = "Kontrrevoluciq.ogg"
     volume = 0.65
 }
 music = {
-    name = "Закрой за мной дверь, я ухожу"
-    file = "Кино - Закрой за мной дверь, я ухожу.ogg"
+    name = "Zakroy_za_mnoy_dver_q_uxozhu"
+    file = "Zakroy_za_mnoy_dver_q_uxozhu.ogg"
     volume = 0.65
 }
 music = {
-    name = "Группа крови"
-    file = "Кино - Группа крови.ogg"
+    name = "Gruppa_krovi"
+    file = "Gruppa_krovi.ogg"
     volume = 0.65
 }
 music = {
-    name = "Звезда по имени Солнце"
-    file = "Кино - Звезда по имени Солнце.ogg"
+    name = "Zvezda_po_imeni_Solnce"
+    file = "Zvezda_po_imeni_Solnce.ogg"
     volume = 0.65
 }
 music = {
-    name = "Кончится лето"
-    file = "Кино - Кончится лето.ogg"
+    name = "Konchitsq_leto"
+    file = "Konchitsq_leto.ogg"
     volume = 0.65
 }
 music = {
-    name = "Жёлтые розы"
-    file = "Вадим Казаченко,Фристайл - Жёлтые розы.ogg"
+    name = "ZHyoltje_rozj"
+    file = "ZHyoltje_rozj.ogg"
     volume = 0.65
 }
 music = {
-    name = "Прощай навеки, последняя любовь"
-    file = "Вадим Казаченко,Фристайл - Прощай навеки, последняя любовь.ogg"
+    name = "Proway_naveki_poslednqq_lubov"
+    file = "Proway_naveki_poslednqq_lubov.ogg"
     volume = 0.65
 }
