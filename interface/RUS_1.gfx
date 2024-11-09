@@ -1,0 +1,7 @@
+spriteTypes = {
+    spriteType = {
+      name = "RUS_1_cover_test_MMCT"
+      textureFile = "gfx/RUS_1_cover_test_MMCT.dds"
+      noOfFrames = 2
+    }
+}
